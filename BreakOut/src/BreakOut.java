@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 //------------------------------------------------------------------------------------------------
-//Skriv in vad programmet g�r
+//Skriv in vad programmet går
 //------------------------------------------------------------------------------------------------
 public class BreakOut extends JPanel implements ActionListener, Runnable, KeyListener{
     //------------------------------------------------------------------------------------------------
