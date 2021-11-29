@@ -1,3 +1,3 @@
 SudokuSolver
 made by Morteza Rezaei and 
-[Johannes Gerding] (https://github.com/JohannesGerding)
+How to reach me: [Johannes Gerding](https://github.com/JohannesGerding)
