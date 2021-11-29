@@ -1,2 +1,2 @@
 SudokuSolver
-made by Morteza Rezaei and Johannes Gerding
+made by Morteza Rezaei and @johannesgerding
